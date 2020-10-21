@@ -1,0 +1,2 @@
+C:\Users\HanWu\Source\Repos\HanWu311\C-\Hello\Debug\Hello.exe
+C:\Users\HanWu\Source\Repos\HanWu311\C-\Hello\Debug\Hello.pdb
